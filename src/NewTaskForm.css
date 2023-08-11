@@ -1,0 +1,52 @@
+.main-form {
+  position: absolute;
+  top: 20%;
+  left: 32%;
+}
+.close-icon-btn {
+  height: 30px;
+  width: 30px;
+  background-color: rgb(223, 221, 221);
+}
+.main-form-button {
+  width: 30px;
+  position: absolute;
+  top: -35px;
+  left: 470px;
+}
+.form-header {
+  background-color: rgb(223, 221, 221);
+  border: 1px solid;
+  border-radius: 10px;
+  width: 500px;
+  position: fixed;
+}
+.form-details {
+  margin: 20px;
+}
+.form-details p {
+  color: grey;
+  font-weight: bold;
+  font-size: 20px;
+}
+.form-details label {
+  color: rgb(179, 176, 176);
+  display: block;
+  margin-bottom: 10px;
+}
+.form-details input {
+  width: 450px;
+  height: 10px;
+  padding: 10px;
+  font-size: 16px;
+  margin-bottom: 10px;
+  border: 0;
+}
+.buttons-club {
+  display: flex;
+  flex-direction: row;
+}
+.buttons-club button {
+  margin-right: 10px;
+  margin-top: 20px;
+}
